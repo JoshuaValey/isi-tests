@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite: CounterApp
 
 1. Clonar o instalar
@@ -10,3 +11,6 @@ yarn install
 ```
 yarn dev
 ```
+=======
+# Laboratorio pruebas unitarias
+>>>>>>> 1489d450afcd8145de30701aa34fdff44714aaaf
